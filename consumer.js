@@ -1,5 +1,5 @@
 const { Kafka } = require("kafkajs");
-const MAC_NAME = "C02SK05SG8WL.local";
+const MAC_NAME = "192.168.1.13";
 
 async function run() {
   try {
